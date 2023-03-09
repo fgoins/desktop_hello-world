@@ -1,0 +1,15 @@
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\bin\Debug\net7.0\desktop_Helloworld.exe
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\bin\Debug\net7.0\desktop_Helloworld.deps.json
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\bin\Debug\net7.0\desktop_Helloworld.runtimeconfig.json
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\bin\Debug\net7.0\desktop_Helloworld.dll
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\bin\Debug\net7.0\desktop_Helloworld.pdb
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.csproj.AssemblyReference.cache
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.AssemblyInfoInputs.cache
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.AssemblyInfo.cs
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.dll
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\refint\desktop_Helloworld.dll
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.pdb
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\desktop_Helloworld.genruntimeconfig.cache
+C:\Users\Faithtorian\Desktop\Repos\desktop_Helloworld\obj\Debug\net7.0\ref\desktop_Helloworld.dll
